@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '31537'
     url: http://www.gutenberg.org/2009/agents/31537
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25732#The-Faust-Legend-and-Goethe-s-Faust-
 gutenberg_issued: '2008-06-09'
 gutenberg_type: Text
 identifiers:
